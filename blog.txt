@@ -1,0 +1,47 @@
+Title: Five ways a technology radar can help your enterprise navigate tech
+Blogs
+Technology strategyBlog
+By Scott Shaw
+Published: March 06, 2024 
+
+Technology is moving fast. So are organizations. And those who can embed tech at the core of their organization will thrive. 
+But with the rising number of tools and solutions in the tech stack, it’s inevitable that the task of managing and governing decisions around technology becomes more challenging. How long should you stay with existing technology? How much experimentation should you invest in? And how do you balance resources, cost savings, IT strategy and capabilities?
+I often see two scenarios play out in businesses when it comes to technology. Either organizations control decisions too tightly — stifling innovation and transformation — or they lack control. Then it becomes even harder to manage the diverse range of technology: wheels start spinning and costs start rising.
+It is also common for businesses to become siloed in different divisions, departments, regions or locations. Often, these divisions result from mergers and other reorganizing forces, leading to scattered legacy technology and unwieldy architectures.
+So what’s the answer? You need to regularly assess your tech portfolio and keep an eye on what’s on the horizon to make the most of your technology today. And that’s where Thoughtworks’ Technology Radar can help.
+
+What is the Technology Radar?
+Back in 2010, a group of Thoughtworkers developed the Technology Radar to track technology and keep our CTO informed of what was going on inside Thoughtworks. 
+More than a decade later, it has become Thoughtworks’ flagship publication and is published bi-annually to set out important changes in software development. It’s also an opinionated view of what tech and tools we find valuable, and what are worth experimenting with or keeping an eye on. Like a radar, it scans the existing, upcoming and emerging technology on the horizon.
+The Technology Radar tracks interesting technologies we refer to as ‘blips’, and organizes them into quadrants and rings. The quadrants (technology, tools, platforms and languages and frameworks) represent different kinds of blips, while the rings indicate what stage in the adoption lifecycle (hold, assess, trial and adopt) we think they should be in.
+Increasingly, we see large companies using our Technology Radar as a lightweight governance tool that ensures technology aligns with organizational needs and values while also giving teams autonomy, helping push decision-making closer to where the work is being done. 
+A radar also allows teams to be more deliberate about tech decisions and how technologies are evaluated and assessed. Essentially, it provides a way to simplify the complexities of your tech portfolio and make strategic choices around the acute challenges facing your industry. 
+For example, when we worked with the Queensland Government to redesign customer experience across digital and physical touchpoints, removing any barriers that could prevent access for certain demographics was a priority. Armed with a technology radar assessment of available technologies, we helped the Government deliver five pilot services in just five months.
+
+Here are five ways a technology radar helps you navigate technology.
+1. Balance risk and reward
+The last decade or so has shown that those who can’t keep up with adopting new technologies are at risk of being left behind. While this might be a compelling reason to take on the latest tech or tool, you also need to carefully balance the risks of adoption with the potential benefits.
+For any given technology, your company is somewhere on the diffusion of innovation curve:
+Innovation adoption lifecycle graph. Innovators are 2.5%, early adopters 13.5%, early majority 34%, late majority 34% and laggards 16%
+But you don't have one technology, you have a host of them – every open-source framework, commercial product or home-grown tool. For each of these, you could pinpoint where you are on the adoption curve and where you think you should be – balancing risk and reward. This may be a useful exercise, but it is cumbersome when you are attempting to map all the dimensions of technologies.
+A Technology Radar can help you create a change-grained categorization system that gives any technology an ideal location on the innovation curve, balancing risk versus reward. 
+2. Create a platform for continual analysis
+Developing your own Technology Radar gives you a framework for mapping out your technology and tools, which then makes the exercise easier to repeat. This becomes a platform for continuously assessing constantly changing technologies, while taking your reaction and appetite into account. Having a standard format also helps you gain valuable insights over time about what’s working (and what isn’t) to help inform technology decisions. 
+Remember, technology never sits still. You must re-evaluate it regularly or risk falling behind your competitors. At Thoughtworks, we update our Radar every six months to make sure we stay ahead of the curve.
+3. Develop transparency and consensus
+In many organizations, there is no feedback loop between the people who use technology to the people who choose it. And when opportunities for feedback do arise, it’s usually negative: effective technology is invisible, but defective technology is all too clear for the people who use it.
+The process of building your technology radar brings together the decision makers and the users of technology and provides an open forum to voice concerns, ideas and thoughts. For us (and our clients) it often leads to powerful conversations.
+In several cases, we have seen companies initiate an infrastructure change immediately after we helped them through a tech radar exercise. Once the leadership team realized the universal need, changes could happen that developers had been advocating more than a year for. 
+4. Open up the tech conversation
+How often do you get together with other technologists and have impassioned conversations about the technologies you interact with every day? Most of us rarely get the opportunity.
+When a group of technologists come together from all projects across all technology stacks and talk about their similarities rather than differences, it can generate surprising results. 
+This is one of the most beneficial parts of the exercise, because you can finally have the important conversations about technology you never have time for. For example, most developers believe they know the Head of Operations’ opinion about ChatGPT, but gain a different perspective after an open dialogue. 
+5. Align business and IT on technology
+Your technology radar can also act as a roadmap, helping you make decisions. When conflicting goals arise, it can align business and IT views on technology. For example, let’s say your company merges with another. It’s a good business outcome, but if the new business brings dysfunctional IT with it, you need a plan. Having a visible roadmap helps both technical and non-technical decision-makers move forward. 
+And finally, with a public stance on the current and future state of technology in your company, you can also make more intelligent decisions about career planning and future skills.
+
+Build your path to a simplified tech stack
+The organizations that can make the most of new technologies today will be the ones that thrive in the future. But without an objective view of your entire tech stack, this can be difficult.
+Building your own technology radar can give you that view and help you assess what’s working and what isn’t. It can open up invaluable conversations, align those who choose and those who use technology and help you make sense of increasing complexity. 
+Find out how to build your own technology radar, or get in touch to see how we can help you develop one.
+Disclaimer: The statements and opinions expressed in this article are those of the author(s) and do not necessarily reflect the positions of Thoughtworks.
